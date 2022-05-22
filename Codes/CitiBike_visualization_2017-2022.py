@@ -14,7 +14,7 @@ fig = px.line(data, x="Month", y="Ridership Trip Count", color= "Year",  title="
 
 
 app.layout = html.Div(children=[
-    html.H1(children='NYC CitiBike Trips count 2018-2022', style = {'text-align': 'center'}),
+    html.H1(children='NYC CitiBike Trips count 2017-2022', style = {'text-align': 'center'}),
 
     dcc.Graph(
         id='Bike_map',
