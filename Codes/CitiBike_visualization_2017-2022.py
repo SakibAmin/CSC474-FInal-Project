@@ -7,7 +7,7 @@ app = Dash(__name__)
 
 """ reads the 'CitiBike Trips 2017-2022.csv' to refer to citibike trips per month by year. This information is displayed as a line chart"""
 
-data = pd.read_csv('CitiBike Trips 2017-2022.csv')
+data = pd.read_csv("..\\Datasets\\CitiBike Data\\CitiBike Trips 2017-2022.csv")
 
 
 fig = px.line(data, x="Month", y="Ridership Trip Count", color= "Year",  title="CitiBike Trips Count in NYC by month from 2017-2022")
