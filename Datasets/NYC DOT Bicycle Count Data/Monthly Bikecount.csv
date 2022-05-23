@@ -34,24 +34,24 @@ Brooklyn,Kent Ave btw North 8th St and North 9th St,2018,29311,36361,40867,66385
 Brooklyn,Kent Ave btw North 8th St and North 9th St,2019,32977,34510,49956,75999,92759,103355,99687,106660,105301,76963,51940,35136,72103.58333
 Brooklyn,Kent Ave btw North 8th St and North 9th St,2020,43269,40338,57530,57440,121896,146296,141430,149943,142750,115529,88903,47759,96090.25
 Brooklyn,Kent Ave btw North 8th St and North 9th St,2021,48987,32716,73053,90909,115413,122956,120066,118119,125473,110588,74645,59521,91037.16667
-Manhattan,8th Ave at 50th St.,2017,0,0,0,0,0,0,0,0,0,0,0,0,0
-Manhattan,8th Ave at 50th St.,2018,0,0,0,0,0,0,0,0,0,0,0,0,0
-Manhattan,8th Ave at 50th St.,2019,0,0,0,0,0,0,0,0,0,0,0,67259,5604.916667
+Manhattan,8th Ave at 50th St.,2017,,,,,,,,,,,,,
+Manhattan,8th Ave at 50th St.,2018,,,,,,,,,,,,,
+Manhattan,8th Ave at 50th St.,2019,,,,,,,,,,,,67259,5604.916667
 Manhattan,8th Ave at 50th St.,2020,84837,81214,76898,53997,91702,107448,104385,114128,120217,114182,97777,71522,93192.25
 Manhattan,8th Ave at 50th St.,2021,81264,43502,82230,92934,99593,100863,99180,103506,110679,95068,0,1317,75844.66667
-Manhattan,Broadway at 50th St,2017,0,0,0,0,0,0,0,0,0,0,0,0,0
-Manhattan,Broadway at 50th St,2018,0,0,0,0,0,0,0,0,0,0,0,0,0
-Manhattan,Broadway at 50th St,2019,0,0,0,0,0,0,0,0,0,0,0,0,0
-Manhattan,Broadway at 50th St,2020,1034,0,0,0,0,0,0,0,0,0,0,3530,380.3333333
-Manhattan,Broadway at 50th St,2021,0,0,0,0,0,0,0,0,0,0,0,0,0
-Manhattan,Amsterdam Ave at 86th St.,2017,0,0,0,0,0,0,0,0,0,0,0,0,0
-Manhattan,Amsterdam Ave at 86th St.,2018,0,0,0,0,0,0,0,0,0,0,0,0,0
-Manhattan,Amsterdam Ave at 86th St.,2019,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manhattan,Broadway at 50th St,2017,,,,,,,,,,,,,
+Manhattan,Broadway at 50th St,2018,,,,,,,,,,,,,
+Manhattan,Broadway at 50th St,2019,,,,,,,,,,,,3530,294.1666667
+Manhattan,Broadway at 50th St,2020,1034,0,0,0,0,0,,,,,,,86.16666667
+Manhattan,Broadway at 50th St,2021,,,,,,,,,,,,,
+Manhattan,Amsterdam Ave at 86th St.,2017,,,,,,,,,,,,,
+Manhattan,Amsterdam Ave at 86th St.,2018,,,,,,,,,,,,,
+Manhattan,Amsterdam Ave at 86th St.,2019,,,,,,,,,,,,,
 Manhattan,Amsterdam Ave at 86th St.,2020,40676,38276,37356,28823,45199,53435,64047,59716,60728,62626,64999,45438,50109.91667
 Manhattan,Amsterdam Ave at 86th St.,2021,47999,35773,48974,53783,59319,59577,56920,57805,71040,61042,68175,60546,56746.08333
-Manhattan,Columbus Ave at 86th St.,2017,0,0,0,0,0,0,0,0,0,0,0,0,0
-Manhattan,Columbus Ave at 86th St.,2018,0,0,0,0,0,0,0,0,0,0,0,0,0
-Manhattan,Columbus Ave at 86th St.,2019,0,0,0,0,0,0,0,0,0,0,0,0,0
+Manhattan,Columbus Ave at 86th St.,2017,,,,,,,,,,,,,
+Manhattan,Columbus Ave at 86th St.,2018,,,,,,,,,,,,,
+Manhattan,Columbus Ave at 86th St.,2019,,,,,,,,,,,,,
 Manhattan,Columbus Ave at 86th St.,2020,32733,30926,30499,23030,38531,45094,47457,51127,54780,55590,48740,38363,41405.83333
 Manhattan,Columbus Ave at 86th St.,2021,40130,26644,41592,47180,51955,51824,47328,46911,50688,50676,44418,40384,44977.5
 Manhattan,Manhattan Bridge Bike Comprehensive,2017,54869,67745,59419,125232,147676,166697,160689,169655,168701,156712,101312,61129,119986.3333
@@ -64,8 +64,8 @@ Brooklyn,Comprehensive Brooklyn Bridge Counter,2018,20519,28767,31312,51772,8885
 Brooklyn,Comprehensive Brooklyn Bridge Counter,2019,20860,20559,30486,57157,62283,63169,66625,76509,71824,54994,32890,16139,47791.25
 Brooklyn,Comprehensive Brooklyn Bridge Counter,2020,23901,21331,31729,26809,57215,66542,60182,65558,70741,58940,44199,23447,45882.83333
 Brooklyn,Comprehensive Brooklyn Bridge Counter,2021,23646,10897,34698,46197,62295,67364,59002,59261,98254,113595,75335,46732,58106.33333
-Brooklyn,Brooklyn Bridge Bicycle Path (Roadway),2017,0,0,0,0,0,0,0,0,73072,113595,75335,46732,25727.83333
-Brooklyn,Brooklyn Bridge Bicycle Path (Roadway),2018,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brooklyn,Brooklyn Bridge Bicycle Path (Roadway),2019,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brooklyn,Brooklyn Bridge Bicycle Path (Roadway),2020,0,0,0,0,0,0,0,0,0,0,0,0,0
-Brooklyn,Brooklyn Bridge Bicycle Path (Roadway),2021,0,0,0,0,0,0,0,0,73072,113595,75335,46732,25727.83333
+Brooklyn,Brooklyn Bridge Bicycle Path (Roadway),2017,,,,,,,,,73072,113595,75335,46732,25727.83333
+Brooklyn,Brooklyn Bridge Bicycle Path (Roadway),2018,,,,,,,,,,,,,
+Brooklyn,Brooklyn Bridge Bicycle Path (Roadway),2019,,,,,,,,,,,,,
+Brooklyn,Brooklyn Bridge Bicycle Path (Roadway),2020,,,,,,,,,,,,,
+Brooklyn,Brooklyn Bridge Bicycle Path (Roadway),2021,,,,,,,,,73072,113595,75335,46732,25727.83333
