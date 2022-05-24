@@ -14,6 +14,18 @@ def year_data(bikeData, year):
     fig = px.line(frame, x="Time", y="Average", title="Bike Count in NYC")
     return fig
 
+#to return year dataframe for bike averages by month
+def year_dataframe(bikeData, year):
+    bike_dataframe_year = bike_data.loc[bike_data['Year'] == year] #filters by year
+    year_averages = bike_dataframe_year[['January', 'Feburary', 'March', 'April', 'May', 'June', 'July','August', 'September', 'October', 'November', 'December' #computes the average of each column specified from the 'bike_dataframe_year' dataframe to display as rows in the 'frame' dataframe  
+    ]].mean(axis = 'index') #compute average per month for all boroughs Bike data
+    frame= pd.DataFrame({'Time': year_averages.index, 'Average': year_averages.values})
+    yearlist = [year] * 12
+    frame["Year"] = yearlist
+    print(frame)
+    return frame
+
+
 """Determines the bicycle count data by borough and year for the second visualization"""
 def bar_graph(bikeData, borough, year):
     bike_dataframe = bike_data.loc[bike_data['Borough'] == borough] #filters by borough
@@ -41,9 +53,44 @@ def bar_graph(bikeData, borough, year):
 
     return fig
    
+
 #the first visualizations which shows bike counts by borough over the years
 fig = px.histogram(bike_data, x="Year", y="Year Average", color="Borough", title="Bike Count by Borough", barmode="group").update_xaxes(categoryorder='total descending')
 
+
+#to create the line graph static figure
+def static_line_graph():
+    
+    data_2017 = year_dataframe(bike_data, 2017)
+    data_2018 = year_dataframe(bike_data, 2018)
+    data_2019 = year_dataframe(bike_data, 2019)
+    data_2020 = year_dataframe(bike_data, 2020)
+    data_2021 = year_dataframe(bike_data, 2021)
+
+    years_list = [data_2017, data_2018, data_2019, data_2020, data_2021]
+    years_dataframe= pd.concat(years_list)
+    
+
+    return px.line(years_dataframe, x="Time", y="Average", color = "Year", title="Bike Count in NYC from 2017-2021")
+
+static_fig1  = static_line_graph()
+
+
+def static_bar_vis():
+    data_2017 = year_dataframe(bike_data, 2017)
+    data_2018 = year_dataframe(bike_data, 2018)
+    data_2019 = year_dataframe(bike_data, 2019)
+    data_2020 = year_dataframe(bike_data, 2020)
+    data_2021 = year_dataframe(bike_data, 2021)
+
+    years_list = [data_2017, data_2018, data_2019, data_2020, data_2021]
+    years_dataframe= pd.concat(years_list)
+
+    fig = px.histogram(years_dataframe, x="Time", y="Average", color = "Year", title="Monthly Bike Count from 2019 to 2021", barmode="group")
+    return fig
+
+
+static_fig2  = static_bar_vis()
 
 app.layout = html.Div(children=[
     html.H1(children='NYC Department of Transportation Bike Count 2017-2021', style = {'text-align': 'center'}),
@@ -84,10 +131,20 @@ app.layout = html.Div(children=[
     dcc.Slider(
         2017, 2021, 1,
         marks={ i: '{}'.format(i) for i in range(2017, 2021)},
-        value= 2017, id = "year_slider_all_boroughs")
+        value= 2017, id = "year_slider_all_boroughs"),
 
 
+#static maps
+    dcc.Graph(
+            id='Bike_map4',
+            figure=static_fig1
 
+        ),
+
+    dcc.Graph(
+            id='Bike_map5',
+            figure= static_fig2
+        )
 ])
 
 
@@ -101,7 +158,6 @@ Input(component_id = 'year_slider', component_property = 'value')]
 def update_main(borough, year):
     fig = bar_graph(bike_data, borough, year)
     return fig
-
 
 #update the line chart based on the selected year
 @app.callback(
