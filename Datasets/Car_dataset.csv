@@ -1,0 +1,597 @@
+Year,Month,License Class,Trips Per Day,Trips Per Month
+2022,March,FHV - High Volume,"595,270",17858100
+2022,March,Green,"2,531",75930
+2022,March,Yellow,"116,629",3498870
+2022,February,FHV - Black Car,"17,379",521370
+2022,February,FHV - Livery,"27,354",820620
+2022,February,FHV - Lux Limo,"1,203",36090
+2022,February,Green,"2,477",74310
+2022,February,FHV - High Volume,"572,114",17163420
+2022,February,Yellow,"106,036",3181080
+2022,January,FHV - Black Car,"12,703",381090
+2022,January,FHV - Livery,"22,523",675690
+2022,January,FHV - Lux Limo,737,22110
+2022,January,Yellow,"79,213",2376390
+2022,January,FHV - High Volume,"475,854",14275620
+2022,January,Green,"2,016",60480
+2021,December,FHV - Black Car,"15,518",465540
+2021,December,FHV - Livery,"26,708",801240
+2021,December,FHV - Lux Limo,"1,081",32430
+2021,December,Yellow,"103,585",3107550
+2021,December,FHV - High Volume,"517,884",15536520
+2021,December,Green,"3,223",96690
+2021,November,FHV - Black Car,"11,915",357450
+2021,November,FHV - Livery,"24,410",732300
+2021,November,FHV - Lux Limo,"1,347",40410
+2021,November,Yellow,"115,660",3469800
+2021,November,Green,"3,607",108210
+2021,November,FHV - High Volume,"534,718",16041540
+2021,October,FHV - Livery,"26,531",795930
+2021,October,FHV - Lux Limo,"1,126",33780
+2021,October,FHV - Black Car,"11,816",354480
+2021,October,FHV - High Volume,"533,613",16008390
+2021,October,Yellow,"111,638",3349140
+2021,October,Green,"3,574",107220
+2021,September,FHV - Livery,"24,869",746070
+2021,September,FHV - Lux Limo,"1,025",30750
+2021,September,FHV - Black Car,"11,332",339960
+2021,September,FHV - High Volume,"423,584",12707520
+2021,September,Green,"3,190",95700
+2021,September,Yellow,"98,724",2961720
+2021,August,FHV - Livery,"24,503",735090
+2021,August,FHV - Lux Limo,665,19950
+2021,August,FHV - Black Car,"9,744",292320
+2021,August,Yellow,"89,901",2697030
+2021,August,Green,"2,693",80790
+2021,August,FHV - High Volume,"467,608",14028240
+2021,July,FHV - High Volume,"484,692",14540760
+2021,July,FHV - Black Car,"10,249",307470
+2021,July,FHV - Livery,"24,991",749730
+2021,July,FHV - Lux Limo,700,21000
+2021,July,Green,"2,698",80940
+2021,July,Yellow,"91,011",2730330
+2021,June,FHV - Black Car,"14,136",424080
+2021,June,FHV - High Volume,"498,641",14959230
+2021,June,FHV - Livery,"29,280",878400
+2021,June,FHV - Lux Limo,928,27840
+2021,June,Green,"2,891",86730
+2021,June,Yellow,"94,130",2823900
+2021,May,FHV - Black Car,"13,022",390660
+2021,May,FHV - High Volume,"474,753",14242590
+2021,May,FHV - Livery,"27,753",832590
+2021,May,FHV - Lux Limo,727,21810
+2021,May,Green,"2,843",85290
+2021,May,Yellow,"80,499",2414970
+2021,April,FHV - Black Car,"12,658",379740
+2021,April,FHV - High Volume,"470,299",14108970
+2021,April,FHV - Livery,"26,758",802740
+2021,April,FHV - Lux Limo,708,21240
+2021,April,Green,"2,896",86880
+2021,April,Yellow,"71,982",2159460
+2021,March,FHV - Black Car,"13,000",390000
+2021,March,FHV - High Volume,"458,777",13763310
+2021,March,FHV - Livery,"28,654",859620
+2021,March,FHV - Lux Limo,629,18870
+2021,March,Green,"2,703",81090
+2021,March,Yellow,"61,643",1849290
+2021,February,FHV - Black Car,"10,716",321480
+2021,February,FHV - High Volume,"414,755",12442650
+2021,February,FHV - Livery,"24,316",729480
+2021,February,FHV - Lux Limo,584,17520
+2021,February,Green,"2,305",69150
+2021,February,Yellow,"48,499",1454970
+2021,January,FHV - Black Car,"10,386",311580
+2021,January,FHV - High Volume,"383,932",11517960
+2021,January,FHV - Livery,"23,890",716700
+2021,January,FHV - Lux Limo,528,15840
+2021,January,Green,"2,467",74010
+2021,January,Yellow,"44,052",1321560
+2020,December,FHV - Black Car,"11,293",338790
+2020,December,FHV - High Volume,"374,990",11249700
+2020,December,FHV - Livery,"24,385",731550
+2020,December,FHV - Lux Limo,475,14250
+2020,December,Green,"2,681",80430
+2020,December,Yellow,"47,145",1414350
+2020,November,FHV - Black Car,"11,825",354750
+2020,November,FHV - High Volume,"386,122",11583660
+2020,November,FHV - Livery,"24,674",740220
+2020,November,FHV - Lux Limo,457,13710
+2020,November,Green,"2,953",88590
+2020,November,Yellow,"50,285",1508550
+2020,October,FHV - Black Car,"10,932",327960
+2020,October,FHV - High Volume,"427,396",12821880
+2020,October,FHV - Livery,"24,640",739200
+2020,October,FHV - Lux Limo,527,15810
+2020,October,Green,"3,067",92010
+2020,October,Yellow,"54,221",1626630
+2020,September,FHV - Black Car,"12,762",382860
+2020,September,FHV - High Volume,"403,515",12105450
+2020,September,FHV - Livery,"24,339",730170
+2020,September,FHV - Lux Limo,479,14370
+2020,September,Green,"2,932",87960
+2020,September,Yellow,"44,646",1339380
+2020,August,FHV - Black Car,"9,723",291690
+2020,August,FHV - High Volume,"357,610",10728300
+2020,August,FHV - Livery,"25,507",765210
+2020,August,FHV - Lux Limo,449,13470
+2020,August,Green,"2,614",78420
+2020,August,Yellow,"32,491",974730
+2020,July,FHV - Black Car,"8,692",260760
+2020,July,FHV - High Volume,"320,999",9629970
+2020,July,FHV - Livery,"23,110",693300
+2020,July,FHV - Lux Limo,436,13080
+2020,July,Green,"2,330",69900
+2020,July,Yellow,"25,816",774480
+2020,June,FHV - Black Car,"9,323",279690
+2020,June,FHV - High Volume,"251,696",7550880
+2020,June,FHV - Livery,"22,723",681690
+2020,June,FHV - Lux Limo,315,9450
+2020,June,Green,"2,103",63090
+2020,June,Yellow,"18,325",549750
+2020,May,FHV - Black Car,"6,180",185400
+2020,May,FHV - High Volume,"196,447",5893410
+2020,May,FHV - Livery,"17,042",511260
+2020,May,FHV - Lux Limo,191,5730
+2020,May,Green,"1,850",55500
+2020,May,Yellow,"11,237",337110
+2020,April,FHV - Black Car,"5,103",153090
+2020,April,FHV - High Volume,"143,762",4312860
+2020,April,FHV - Livery,"10,719",321570
+2020,April,FHV - Lux Limo,148,4440
+2020,April,Green,"1,186",35580
+2020,April,Yellow,"7,928",237840
+2020,March,FHV - Black Car,"13,708",411240
+2020,March,FHV - High Volume,"432,027",12960810
+2020,March,FHV - Livery,"25,153",754590
+2020,March,FHV - Lux Limo,"1,060",31800
+2020,March,Green,"7,205",216150
+2020,March,Yellow,"96,993",2909790
+2020,February,FHV - Black Car,"20,412",612360
+2020,February,FHV - High Volume,"749,129",22473870
+2020,February,FHV - Livery,"34,822",1044660
+2020,February,FHV - Lux Limo,"2,472",74160
+2020,February,Green,"13,743",412290
+2020,February,Yellow,"217,216",6516480
+2020,January,FHV - Black Car,"22,195",665850
+2020,January,FHV - High Volume,"663,433",19902990
+2020,January,FHV - Livery,"35,036",1051080
+2020,January,FHV - Lux Limo,"2,079",62370
+2020,January,Green,"13,446",403380
+2020,January,Yellow,"206,604",6198120
+2019,December,FHV - Black Car,"18,498",554940
+2019,December,FHV - High Volume,"717,497",21524910
+2019,December,FHV - Livery,"38,401",1152030
+2019,December,FHV - Lux Limo,"2,555",76650
+2019,December,Green,"11,598",347940
+2019,December,Yellow,"220,786",6623580
+2019,November,FHV - Black Car,"16,612",498360
+2019,November,FHV - High Volume,"721,170",21635100
+2019,November,FHV - Livery,"35,889",1076670
+2019,November,FHV - Lux Limo,"2,017",60510
+2019,November,Green,"12,068",362040
+2019,November,Yellow,"227,654",6829620
+2019,October,FHV - Black Car,"16,245",487350
+2019,October,FHV - High Volume,"682,635",20479050
+2019,October,FHV - Livery,"38,855",1165650
+2019,October,FHV - Lux Limo,"3,105",93150
+2019,October,Green,"12,470",374100
+2019,October,Yellow,"231,171",6935130
+2019,September,FHV - Black Car,"12,373",371190
+2019,September,FHV - High Volume,"668,520",20055600
+2019,September,FHV - Livery,"19,312",579360
+2019,September,FHV - Lux Limo,"2,739",82170
+2019,September,Green,"12,985",389550
+2019,September,Yellow,"217,747",6532410
+2019,August,FHV - Black Car,"12,787",383610
+2019,August,FHV - High Volume,"648,961",19468830
+2019,August,FHV - Livery,"38,815",1164450
+2019,August,FHV - Lux Limo,"2,099",62970
+2019,August,Green,"12,866",385980
+2019,August,Yellow,"194,798",5843940
+2019,July,FHV - Black Car,"13,993",419790
+2019,July,FHV - High Volume,"654,230",19626900
+2019,July,FHV - Livery,"41,492",1244760
+2019,July,FHV - Lux Limo,"2,013",60390
+2019,July,Green,"13,969",419070
+2019,July,Yellow,"202,443",6073290
+2019,June,FHV - Black Car,"14,233",426990
+2019,June,FHV - High Volume,"700,036",21001080
+2019,June,FHV - Livery,"43,938",1318140
+2019,June,FHV - Lux Limo,"2,276",68280
+2019,June,Green,"15,690",470700
+2019,June,Yellow,"231,335",6940050
+2019,May,FHV - Black Car,"16,186",485580
+2019,May,FHV - High Volume,"720,263",21607890
+2019,May,FHV - Livery,"44,781",1343430
+2019,May,FHV - Lux Limo,"2,657",79710
+2019,May,Green,"16,248",487440
+2019,May,Yellow,"244,017",7320510
+2019,April,FHV - Black Car,"15,660",469800
+2019,April,FHV - High Volume,"724,388",21731640
+2019,April,FHV - Livery,"44,846",1345380
+2019,April,FHV - Lux Limo,"2,584",77520
+2019,April,Green,"17,080",512400
+2019,April,Yellow,"247,742",7432260
+2019,March,FHV - Black Car,"8,778",263340
+2019,March,FHV - High Volume,"769,729",23091870
+2019,March,FHV - Livery,"32,099",962970
+2019,March,FHV - Lux Limo,"1,513",45390
+2019,March,Green,"19,318",579540
+2019,March,Yellow,"252,634",7579020
+2019,February,FHV - Black Car,"13,692",410760
+2019,February,FHV - High Volume,"719,853",21595590
+2019,February,FHV - Livery,"44,638",1339140
+2019,February,FHV - Lux Limo,"2,467",74010
+2019,February,Green,"20,481",614430
+2019,February,Yellow,"250,654",7519620
+2019,January,FHV - Black Car,"15,024",450720
+2019,January,FHV - High Volume,"683,692",20510760
+2019,January,FHV - Livery,"41,974",1259220
+2019,January,FHV - Lux Limo,"2,573",77190
+2019,January,Green,"20,327",609810
+2019,January,Yellow,"247,315",7419450
+2018,December,FHV - Black Car,"16,120",483600
+2018,December,FHV - High Volume,"701,180",21035400
+2018,December,FHV - Livery,"48,951",1468530
+2018,December,FHV - Lux Limo,"3,025",90750
+2018,December,Green,"22,083",662490
+2018,December,Yellow,"263,609",7908270
+2018,November,FHV - Black Car,"17,791",533730
+2018,November,FHV - High Volume,"691,379",20741370
+2018,November,FHV - Livery,"47,205",1416150
+2018,November,FHV - Lux Limo,"3,622",108660
+2018,November,Green,"21,858",655740
+2018,November,Yellow,"271,501",8145030
+2018,October,FHV - Black Car,"18,364",550920
+2018,October,FHV - High Volume,"680,433",20412990
+2018,October,FHV - Livery,"44,990",1349700
+2018,October,FHV - Lux Limo,"3,467",104010
+2018,October,Green,"22,889",686670
+2018,October,Yellow,"284,121",8523630
+2018,September,FHV - Black Car,"15,159",454770
+2018,September,FHV - High Volume,"658,952",19768560
+2018,September,FHV - Livery,"42,058",1261740
+2018,September,FHV - Lux Limo,"2,556",76680
+2018,September,Green,"22,193",665790
+2018,September,Yellow,"267,983",8039490
+2018,August,FHV - Black Car,"14,455",433650
+2018,August,FHV - High Volume,"642,341",19270230
+2018,August,FHV - Livery,"46,411",1392330
+2018,August,FHV - Lux Limo,"2,211",66330
+2018,August,Green,"21,468",644040
+2018,August,Yellow,"253,182",7595460
+2018,July,FHV - Black Car,"13,614",408420
+2018,July,FHV - High Volume,"630,977",18929310
+2018,July,FHV - Livery,"44,963",1348890
+2018,July,FHV - Lux Limo,"2,377",71310
+2018,July,Green,"22,048",661440
+2018,July,Yellow,"253,186",7595580
+2018,June,FHV - Black Car,"17,207",516210
+2018,June,FHV - High Volume,"626,423",18792690
+2018,June,FHV - Livery,"55,453",1663590
+2018,June,FHV - Lux Limo,"3,433",102990
+2018,June,Green,"24,610",738300
+2018,June,Yellow,"290,362",8710860
+2018,May,FHV - Black Car,"16,826",504780
+2018,May,FHV - High Volume,"620,950",18628500
+2018,May,FHV - Livery,"55,083",1652490
+2018,May,FHV - Lux Limo,"3,531",105930
+2018,May,Green,"25,693",770790
+2018,May,Yellow,"297,508",8925240
+2018,April,FHV - Black Car,"16,088",482640
+2018,April,FHV - High Volume,"616,450",18493500
+2018,April,FHV - Livery,"57,501",1725030
+2018,April,FHV - Lux Limo,"3,362",100860
+2018,April,Green,"26,642",799260
+2018,April,Yellow,"310,169",9305070
+2018,March,FHV - Black Car,"16,422",492660
+2018,March,FHV - High Volume,"624,601",18738030
+2018,March,FHV - Livery,"58,458",1753740
+2018,March,FHV - Lux Limo,"3,127",93810
+2018,March,Green,"26,967",809010
+2018,March,Yellow,"304,169",9125070
+2018,February,FHV - Black Car,"17,415",522450
+2018,February,FHV - High Volume,"603,801",18114030
+2018,February,FHV - Livery,"58,545",1756350
+2018,February,FHV - Lux Limo,"3,240",97200
+2018,February,Green,"27,461",823830
+2018,February,Yellow,"303,280",9098400
+2018,January,FHV - Black Car,"15,445",463350
+2018,January,FHV - High Volume,"555,031",16650930
+2018,January,FHV - Livery,"62,222",1866660
+2018,January,FHV - Lux Limo,"3,142",94260
+2018,January,Green,"25,564",766920
+2018,January,Yellow,"282,565",8476950
+2017,December,FHV - Black Car,"15,541",466230
+2017,December,FHV - High Volume,"553,632",16608960
+2017,December,FHV - Livery,"64,462",1933860
+2017,December,FHV - Lux Limo,"3,139",94170
+2017,December,Green,"29,223",876690
+2017,December,Yellow,"306,706",9201180
+2017,November,FHV - Black Car,"15,718",471540
+2017,November,FHV - High Volume,"517,191",15515730
+2017,November,FHV - Livery,"59,254",1777620
+2017,November,FHV - Lux Limo,"3,246",97380
+2017,November,Green,"29,136",874080
+2017,November,Yellow,"309,471",9284130
+2017,October,FHV - Black Car,"16,405",492150
+2017,October,FHV - High Volume,"492,028",14760840
+2017,October,FHV - Livery,"59,234",1777020
+2017,October,FHV - Lux Limo,"3,171",95130
+2017,October,Green,"29,858",895740
+2017,October,Yellow,"315,084",9452520
+2017,September,FHV - Black Car,"15,975",479250
+2017,September,FHV - High Volume,"468,318",14049540
+2017,September,FHV - Livery,"59,436",1783080
+2017,September,FHV - Lux Limo,"3,396",101880
+2017,September,Green,"29,409",882270
+2017,September,Yellow,"298,163",8944890
+2017,August,FHV - Black Car,"13,985",419550
+2017,August,FHV - High Volume,"429,691",12890730
+2017,August,FHV - Livery,"59,142",1774260
+2017,August,FHV - Lux Limo,"2,774",83220
+2017,August,Green,"27,976",839280
+2017,August,Yellow,"271,676",8150280
+2017,July,FHV - Black Car,"13,084",392520
+2017,July,FHV - High Volume,"421,285",12638550
+2017,July,FHV - Livery,"59,805",1794150
+2017,July,FHV - Lux Limo,"2,720",81600
+2017,July,Green,"29,503",885090
+2017,July,Yellow,"277,042",8311260
+2017,June,FHV - Black Car,"14,274",428220
+2017,June,FHV - High Volume,"420,017",12600510
+2017,June,FHV - Livery,"64,389",1931670
+2017,June,FHV - Lux Limo,"3,327",99810
+2017,June,Green,"32,544",976320
+2017,June,Yellow,"321,877",9656310
+2017,May,FHV - Black Car,"15,505",465150
+2017,May,FHV - High Volume,"399,546",11986380
+2017,May,FHV - Livery,"77,985",2339550
+2017,May,FHV - Lux Limo,"3,653",109590
+2017,May,Green,"34,174",1025220
+2017,May,Yellow,"325,857",9775710
+2017,April,FHV - Black Car,"13,676",410280
+2017,April,FHV - High Volume,"393,918",11817540
+2017,April,FHV - Livery,"81,326",2439780
+2017,April,FHV - Lux Limo,"3,240",97200
+2017,April,Green,"36,024",1080720
+2017,April,Yellow,"334,865",10045950
+2017,March,FHV - Black Car,"14,500",435000
+2017,March,FHV - High Volume,"402,938",12088140
+2017,March,FHV - Livery,"85,721",2571630
+2017,March,FHV - Lux Limo,"3,391",101730
+2017,March,Green,"37,341",1120230
+2017,March,Yellow,"332,075",9962250
+2017,February,FHV - Black Car,"13,280",398400
+2017,February,FHV - High Volume,"375,693",11270790
+2017,February,FHV - Livery,"81,985",2459550
+2017,February,FHV - Lux Limo,"3,502",105060
+2017,February,Green,"36,509",1095270
+2017,February,Yellow,"327,451",9823530
+2017,January,FHV - Black Car,"12,660",379800
+2017,January,FHV - High Volume,"344,972",10349160
+2017,January,FHV - Livery,"79,624",2388720
+2017,January,FHV - Lux Limo,"3,302",99060
+2017,January,Green,"34,497",1034910
+2017,January,Yellow,"313,229",9396870
+2016,December,FHV - Black Car,"12,185",365550
+2016,December,FHV - High Volume,"347,858",10435740
+2016,December,FHV - Livery,"84,307",2529210
+2016,December,FHV - Lux Limo,"2,705",81150
+2016,December,Green,"39,488",1184640
+2016,December,Yellow,"337,071",10112130
+2016,November,FHV - Black Car,"12,670",380100
+2016,November,FHV - High Volume,"318,664",9559920
+2016,November,FHV - Livery,"80,717",2421510
+2016,November,FHV - Lux Limo,"2,514",75420
+2016,November,Green,"38,272",1148160
+2016,November,Yellow,"336,737",10102110
+2016,October,FHV - Black Car,"12,933",387990
+2016,October,FHV - High Volume,"310,749",9322470
+2016,October,FHV - Livery,"81,340",2440200
+2016,October,FHV - Lux Limo,"3,297",98910
+2016,October,Green,"40,405",1212150
+2016,October,Yellow,"350,380",10511400
+2016,September,FHV - Black Car,"14,150",424500
+2016,September,FHV - High Volume,"292,548",8776440
+2016,September,FHV - Livery,"82,088",2462640
+2016,September,FHV - Lux Limo,"3,200",96000
+2016,September,Green,"38,741",1162230
+2016,September,Yellow,"337,321",10119630
+2016,August,FHV - Black Car,"12,344",370320
+2016,August,FHV - High Volume,"263,457",7903710
+2016,August,FHV - Livery,"83,283",2498490
+2016,August,FHV - Lux Limo,"3,008",90240
+2016,August,Green,"40,241",1207230
+2016,August,Yellow,"320,718",9621540
+2016,July,FHV - Black Car,"12,589",377670
+2016,July,FHV - High Volume,"252,701",7581030
+2016,July,FHV - Livery,"85,737",2572110
+2016,July,FHV - Lux Limo,"3,080",92400
+2016,July,Green,"42,979",1289370
+2016,July,Yellow,"332,231",9966930
+2016,June,FHV - Black Car,"15,375",461250
+2016,June,FHV - High Volume,"242,233",7266990
+2016,June,FHV - Livery,"96,337",2890110
+2016,June,FHV - Lux Limo,"5,007",150210
+2016,June,Green,"46,817",1404510
+2016,June,Yellow,"371,257",11137710
+2016,May,FHV - Black Car,"14,705",441150
+2016,May,FHV - High Volume,"226,667",6800010
+2016,May,FHV - Livery,"100,070",3002100
+2016,May,FHV - Lux Limo,"4,992",149760
+2016,May,Green,"49,573",1487190
+2016,May,Yellow,"381,878",11456340
+2016,April,FHV - Black Car,"14,535",436050
+2016,April,FHV - High Volume,"217,147",6514410
+2016,April,FHV - Livery,"101,203",3036090
+2016,April,FHV - Lux Limo,"5,053",151590
+2016,April,Green,"51,458",1543740
+2016,April,Yellow,"397,780",11933400
+2016,March,FHV - Black Car,"14,138",424140
+2016,March,FHV - High Volume,"195,837",5875110
+2016,March,FHV - Livery,"95,707",2871210
+2016,March,FHV - Lux Limo,"4,425",132750
+2016,March,Green,"50,850",1525500
+2016,March,Yellow,"393,886",11816580
+2016,February,FHV - Black Car,"19,854",595620
+2016,February,FHV - High Volume,"201,940",6058200
+2016,February,FHV - Livery,"98,897",2966910
+2016,February,FHV - Lux Limo,"4,405",132150
+2016,February,Green,"52,093",1562790
+2016,February,Yellow,"392,470",11774100
+2016,January,FHV - Black Car,"14,352",430560
+2016,January,FHV - High Volume,"166,805",5004150
+2016,January,FHV - Livery,"89,661",2689830
+2016,January,FHV - Lux Limo,"3,721",111630
+2016,January,Green,"46,621",1398630
+2016,January,Yellow,"351,816",10554480
+2015,December,FHV - Black Car,"15,377",461310
+2015,December,FHV - High Volume,"168,786",5063580
+2015,December,FHV - Livery,"97,134",2914020
+2015,December,FHV - Lux Limo,"5,437",163110
+2015,December,Green,"51,880",1556400
+2015,December,Yellow,"369,686",11090580
+2015,November,FHV - Black Car,"15,069",452070
+2015,November,FHV - High Volume,"163,178",4895340
+2015,November,FHV - Livery,"93,451",2803530
+2015,November,FHV - Lux Limo,"5,583",167490
+2015,November,Green,"50,999",1529970
+2015,November,Yellow,"377,076",11312280
+2015,October,FHV - Black Car,"16,756",502680
+2015,October,FHV - High Volume,"163,168",4895040
+2015,October,FHV - Livery,"91,468",2744040
+2015,October,FHV - Lux Limo,"5,554",166620
+2015,October,Green,"52,598",1577940
+2015,October,Yellow,"397,244",11917320
+2015,September,FHV - Black Car,"10,293",308790
+2015,September,FHV - High Volume,"144,300",4329000
+2015,September,FHV - Livery,"60,764",1822920
+2015,September,FHV - Lux Limo,"4,069",122070
+2015,September,Green,"49,830",1494900
+2015,September,Yellow,"374,156",11224680
+2015,August,FHV - Black Car,"7,988",239640
+2015,August,FHV - High Volume,"123,807",3714210
+2015,August,FHV - Livery,"34,450",1033500
+2015,August,FHV - Lux Limo,"3,476",104280
+2015,August,Green,"49,429",1482870
+2015,August,Yellow,"359,029",10770870
+2015,July,FHV - Black Car,"7,574",227220
+2015,July,FHV - High Volume,"112,207",3366210
+2015,July,FHV - Livery,"18,526",555780
+2015,July,FHV - Lux Limo,"3,136",94080
+2015,July,Green,"49,730",1491900
+2015,July,Yellow,"372,979",11189370
+2015,June,FHV - Black Car,"9,276",278280
+2015,June,FHV - High Volume,"102,793",3083790
+2015,June,FHV - Livery,"25,626",768780
+2015,June,FHV - Lux Limo,"3,655",109650
+2015,June,Green,"54,628",1638840
+2015,June,Yellow,"410,831",12324930
+2015,May,FHV - Black Car,"7,681",230430
+2015,May,FHV - High Volume,"94,103",2823090
+2015,May,FHV - Livery,"31,153",934590
+2015,May,FHV - Lux Limo,"3,580",107400
+2015,May,Green,"57,637",1729110
+2015,May,Yellow,"424,459",12733770
+2015,April,FHV - Black Car,"10,060",301800
+2015,April,FHV - High Volume,"82,498",2474940
+2015,April,FHV - Livery,"33,619",1008570
+2015,April,FHV - Lux Limo,"2,973",89190
+2015,April,Green,"55,473",1664190
+2015,April,Yellow,"435,701",13071030
+2015,March,FHV - Black Car,"5,338",160140
+2015,March,FHV - High Volume,"72,889",2186670
+2015,March,FHV - Livery,"25,025",750750
+2015,March,FHV - Lux Limo,"1,439",43170
+2015,March,Green,"55,567",1667010
+2015,March,Yellow,"430,669",12920070
+2015,February,FHV - Black Car,"6,213",186390
+2015,February,FHV - High Volume,"77,796",2333880
+2015,February,FHV - Livery,"23,250",697500
+2015,February,FHV - Lux Limo,"1,782",53460
+2015,February,Green,"56,242",1687260
+2015,February,Yellow,"444,633",13338990
+2015,January,FHV - Black Car,"5,359",160770
+2015,January,FHV - High Volume,"60,357",1810710
+2015,January,FHV - Livery,"20,740",622200
+2015,January,FHV - Lux Limo,"1,310",39300
+2015,January,Green,"48,659",1459770
+2015,January,Yellow,"411,238",12337140
+2014,December,Green,"53,078",1592340
+2014,December,Yellow,"419,776",12593280
+2014,November,Green,"51,600",1548000
+2014,November,Yellow,"440,576",13217280
+2014,October,Green,"48,100",1443000
+2014,October,Yellow,"459,087",13772610
+2014,September,Green,"45,394",1361820
+2014,September,Yellow,"445,782",13373460
+2014,August,Green,"43,381",1301430
+2014,August,Yellow,"409,305",12279150
+2014,July,Green,"41,094",1232820
+2014,July,Yellow,"422,771",12683130
+2014,June,Green,"44,590",1337700
+2014,June,Yellow,"460,393",13811790
+2014,May,Green,"45,853",1375590
+2014,May,Yellow,"476,569",14297070
+2014,April,Green,"43,625",1308750
+2014,April,Yellow,"487,275",14618250
+2014,March,Green,"41,718",1251540
+2014,March,Yellow,"497,661",14929830
+2014,February,Green,"35,895",1076850
+2014,February,Yellow,"466,522",13995660
+2014,January,Green,"25,923",777690
+2014,January,Yellow,"444,537",13336110
+2013,December,Green,"19,435",583050
+2013,December,Yellow,"450,634",13519020
+2013,November,Green,"12,692",380760
+2013,November,Yellow,"479,527",14385810
+2013,October,Green,"5,477",164310
+2013,October,Yellow,"483,921",14517630
+2013,September,Green,"1,632",48960
+2013,September,Yellow,"470,147",14104410
+2013,August,Green,283,8490
+2013,August,Yellow,"406,246",12187380
+2013,July,Yellow,"445,861",13375830
+2013,June,Yellow,"479,148",14374440
+2013,May,Yellow,"492,962",14788860
+2013,April,Yellow,"503,249",15097470
+2013,March,Yellow,"507,914",15237420
+2013,February,Yellow,"499,556",14986680
+2013,January,Yellow,"476,544",14296320
+2012,December,Yellow,"474,005",14220150
+2012,November,Yellow,"459,114",13773420
+2012,October,Yellow,"468,377",14051310
+2012,September,Yellow,"484,783",14543490
+2012,August,Yellow,"463,841",13915230
+2012,July,Yellow,"463,784",13913520
+2012,June,Yellow,"503,139",15094170
+2012,May,Yellow,"502,097",15062910
+2012,April,Yellow,"515,848",15475440
+2012,March,Yellow,"520,764",15622920
+2012,February,Yellow,"516,585",15497550
+2012,January,Yellow,"482,811",14484330
+2011,December,Yellow,"481,410",14442300
+2011,November,Yellow,"484,122",14523660
+2011,October,Yellow,"506,532",15195960
+2011,September,Yellow,"487,470",14624100
+2011,August,Yellow,"427,740",12832200
+2011,July,Yellow,"475,475",14264250
+2011,June,Yellow,"503,152",15094560
+2011,May,Yellow,"501,708",15051240
+2011,April,Yellow,"490,577",14717310
+2011,March,Yellow,"518,212",15546360
+2011,February,Yellow,"507,167",15215010
+2011,January,Yellow,"434,297",13028910
+2010,December,Yellow,"445,727",13371810
+2010,November,Yellow,"463,701",13911030
+2010,October,Yellow,"457,996",13739880
+2010,September,Yellow,"517,972",15539160
+2010,August,Yellow,"404,115",12123450
+2010,July,Yellow,"472,752",14182560
+2010,June,Yellow,"494,137",14824110
+2010,May,Yellow,"499,374",14981220
+2010,April,Yellow,"504,798",15143940
+2010,March,Yellow,"415,567",12467010
+2010,February,Yellow,"397,969",11939070
+2010,January,Yellow,"479,376",14381280
